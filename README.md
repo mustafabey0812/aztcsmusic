@@ -1,1 +1,1 @@
-# aztcsmusic
+# aztecas muzikbotu telif hakkına sahiptir
